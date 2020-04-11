@@ -1,0 +1,27 @@
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.exe.config
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.exe
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.pdb
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.Form1.resources
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.Properties.Resources.resources
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.csproj.GenerateResource.Cache
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.exe
+c:\users\hobay\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.pdb
+C:\Users\HobaY\documents\visual studio 2015\Projects\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.csprojResolveAssemblyReference.cache
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.exe.config
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.exe
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.pdb
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.csprojAssemblyReference.cache
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.Form1.resources
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.Properties.Resources.resources
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.csproj.GenerateResource.cache
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.exe
+C:\Users\HobaY\Desktop\Проекты\Visual Studio Projects\VS Files 2\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.pdb
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.exe.config
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.exe
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\bin\Debug\CPUPlanning.pdb
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.csprojAssemblyReference.cache
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.Form1.resources
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.Properties.Resources.resources
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.csproj.GenerateResource.cache
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.exe
+C:\Users\HobaY\Desktop\togit\CPUPlanning\CPUPlanning\obj\Debug\CPUPlanning.pdb
